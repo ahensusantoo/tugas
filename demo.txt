@@ -1,1 +1,13 @@
 Demo : https://ptyaksaalamsejahtera.000webhostapp.com/auth
+
+hak akses : admin
+username : admin
+password : admin
+
+hak akses : fakturis
+username : fakturis
+password : fakturis
+
+hak akses : logistik
+username : logistik
+password : logistik
